@@ -1,0 +1,24 @@
+
+# macOS - tillfälliga systemfiler
+.DS_Store
+
+# Python - cachefiler
+__pycache__/
+*.pyc
+
+# Virtuella Python-miljöer
+.venv/
+venv/
+env/
+
+# Jupyter - automatiska checkpoints
+.ipynb_checkpoints/
+
+# Hemligheter och lokala inställningar
+.env
+.streamlit/secrets.toml
+
+# Lokala VS Code-inställningar
+.vscode/
+
+
