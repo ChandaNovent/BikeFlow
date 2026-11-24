@@ -1,0 +1,24 @@
+# Data processing and numerical calculations
+pandas==3.0.6
+numpy==2.5.3
+
+# Statistical analysis and visualization
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Machine learning and model persistence
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# External weather API
+requests==2.34.2
+
+# Streamlit application and visualization
+streamlit==1.67.0
+altair==6.3.0
+pillow==12.3.0
+
+# Jupyter Notebook environment
+ipykernel==7.3.0
+notebook==7.6.3
