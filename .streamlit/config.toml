@@ -1,0 +1,20 @@
+# Configure the visual theme of the application
+[theme]
+
+# Use a dark theme as the foundation
+base = "dark"
+
+# Set the accent color for interactive elements
+primaryColor = "#65DED2"
+
+# Set the main application background
+backgroundColor = "#102B40"
+
+# Set the background of input fields and secondary elements
+secondaryBackgroundColor = "#1E4054"
+
+# Set the default text color
+textColor = "#FFFFFF"
+
+# Use a clean and modern font
+font = "sans serif"
